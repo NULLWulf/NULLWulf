@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and it's related components, Functional Programming, Rust**
 
-- 👨‍💻 All of my projects are available at [https://nullwulf.github.io/](https://nullwulf.github.io/)
+- 👨‍💻 All of my projects are available at [nullwulf.github.io/](https://nullwulf.github.io/)
 
 - 💬 Ask me about **MongoDB, Relational Databases,**
 
