@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Wolf</h1>
-<h3 align="center">Incoming Senior in Computer Science. I enjoy database development, back-end development, micro-services and getting lots of data from point A to B.</h3>
+<h3 align="center">I am a Computer Science Major finishing my last year at SUNY Oswego.  Over the course of my education and professional internship experiences I have been able to identify what I like working on the most.  Some languages I like working with are Java, C#, Python, and Golang.  In addition to this I also have developed applications against both NoSql and SQL based databases, but in general I am a bit of a MongoDB fanboy.  So In general I am interested in development of database driven applications and more recently interested in this is a cloud development context as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullwulf&label=Profile%20views&color=0e75b6&style=flat" alt="nullwulf" /> </p>
 
@@ -11,8 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [nullwulf.github.io/](https://nullwulf.github.io/)
  -->
-- 💬 Ask me about **MongoDB, Relational Databases,**
-
+- 💬 Ask me about **Databases (NoSql, SQL), GoLang, Java, Amazon web Services**
 - 📫 How to reach me **nwolf2@oswego.edu**
 
 - 📄 Know about my experiences [~later~](~later~)
