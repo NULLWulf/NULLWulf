@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullwulf&label=Profile%20views&color=0e75b6&style=flat" alt="nullwulf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullwulf" alt="nullwulf" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullwulf" alt="nullwulf" /></a> </p>
 
 - 🔭 I’m currently working on [Oswego Asset Map Interface](https://github.com/NULLWulf/Oswego-Map-Interface-Data-Server)
 
