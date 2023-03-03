@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullwulf" alt="nullwulf" /></a> </p>
 
-- 🔭 I’m currently working on projected related to CSC445 Computer Networks, CSC365 Data Structures and Algorithims, [CSC480 Software Design](https://github.com/tenbergen/CSC480-22S)
+- 🔭 I’m currently working on projected related to CSC445 Computer Networks, CSC365 Data Structures and Algorithims, [CSC480 Software Design](https://github.com/tenbergen/CSC480-22S).
 
 - 🌱 I’m currently learning **Spring Boot and it's related components, Functional Programming, Rust**
 
@@ -13,8 +13,6 @@
  -->
 - 💬 Ask me about **Databases (NoSql, SQL), GoLang, Java, Amazon web Services**
 - 📫 How to reach me **nwolf2@oswego.edu**
-
-- 📄 Know about my experiences [~later~](~later~)
 
 - ⚡ Fun fact **I play guitar and also enjoy video games.**
 
