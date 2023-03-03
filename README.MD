@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullwulf&label=Profile%20views&color=0e75b6&style=flat" alt="nullwulf" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullwulf" alt="nullwulf" /></a> </p>
+<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullwulf" alt="nullwulf" /></a> </p>
 
 - 🔭 I’m currently working on projected related to CSC445 Computer Networks, CSC365 Data Structures and Algorithims, [CSC480 Software Design](https://github.com/tenbergen/CSC480-22S).
 
