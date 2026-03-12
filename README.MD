@@ -1,37 +1,76 @@
-<h2 align="center">Hi 👋, I'm Nathan Wolf</h2>
-<p>I am a Computer Science Major finishing my last year at SUNY Oswego.  Over the course of my education and professional internship experiences I have been able to identify what I like working on the most.  Some languages I like working with are Java, C#, Python, and Golang.  In addition to this I also have developed applications against both NoSql and SQL based database.  So In general I am interested in development of database driven applications and more recently interested in this is a cloud development context as well.  Some interesting courses I am taking at the moment are CSC445 Computer Networking and CSC365 Data Structures and Algorithims</p>
+# hey, i'm nathan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullwulf&label=Profile%20views&color=0e75b6&style=flat" alt="nullwulf" /> </p>
+```yaml
+role: Application Developer II → Cloud / DevOps Engineer
+location: Raleigh-Durham, NC
+currently: building CI/CD pipelines & Azure-native apps @ The Bonadio Group
+```
 
-<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullwulf" alt="nullwulf" /></a> </p>
+---
 
-- 🔭 I’m currently working on projected related to CSC445 Computer Networks, CSC365 Data Structures and Algorithims, [CSC480 Software Design](https://github.com/tenbergen/CSC480-22S).
+## what i actually do
 
-- 🌱 I’m currently learning **Spring Boot and it's related components, Functional Programming, Rust**
+I build things that live in the cloud and move fast. Most of my day is spent somewhere in the Azure ecosystem — wiring up services, modernizing pipelines, or figuring out why something that should cost $50/month is costing $500.
 
-<!-- - 👨‍💻 All of my projects are available at [nullwulf.github.io/](https://nullwulf.github.io/)
- -->
-- 💬 Ask me about **Databases (NoSql, SQL), GoLang, Java, Amazon web Services**
-- 📫 How to reach me **nwolf2@oswego.edu**
+Lately that's meant:
 
-- ⚡ Fun fact **I play guitar and also enjoy video games.**
+- **CI/CD pipelines** with GitHub Actions — writing them, teaching others how to use them, and enforcing standards so the codebase doesn't become a haunted house
+- **.NET / C# services** deployed to App Services and Azure Functions, talking to SQL DBs, Key Vaults, Event Hubs, CosmosDB, and whatever else the architecture calls for
+- **Cloud migrations** — taking on-premise applications and finding them a new home in Azure without breaking everything in the process
+- **BonDoc** — an in-house AI documentation tool I built that auto-generates architecture docs, deployment guides, and Mermaid diagrams directly from CI/CD pipelines as a GitHub Action
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nwolf2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwolf2" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/nullwulf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nullwulf" height="30" width="40" /></a>
-<a href="https://medium.com/@nullwulf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nullwulf" height="30" width="40" /></a>
+---
+
+## stack
+
+**cloud**
+`Azure` · `AWS` · `GCP`
+
+**devops & infra**
+`Azure DevOps` · `GitHub Actions` · `Docker`
+
+**languages**
+`C#` · `Python` · `Go` · `PowerShell` · `Bash`
+
+**databases**
+`SQL Server` · `MongoDB` · `PostgreSQL`
+
+**ai tooling**
+`GitHub Copilot` · `Cursor` · `MCP / Agent Integrations` · `Azure AI Foundry`
+
+---
+
+## certs
+
+| cert | date |
+|------|------|
+| AZ-204 · Developing Solutions for Microsoft Azure | Aug 2025 |
+| DP-900 · Azure Data Fundamentals | Apr 2024 |
+| AZ-900 · Azure Fundamentals | Mar 2024 |
+
+---
+
+## a few things i've shipped
+
+**Bonadio Group — Application Developer II** *(Dec 2022 – Present)*
+Cloud-native .NET services, a big-deal on-premise → Azure migration, and an internal AI documentation platform baked into the CI/CD process.
+
+**Novelis Aluminum — Software Engineering Co-op** *(Jun – Dec 2022)*
+OPC server config, Python data analysis on production datasets, and C# dashboards for tracking industrial equipment throughput.
+
+**SUNY Oswego Facility Services — Intern** *(Dec 2021 – Jun 2022)*
+Full-stack campus asset mapping app in Spring Boot + MapboxGL. Automated a bunch of Google Sheets chaos with the Workspace API.
+
+---
+
+## outside the terminal
+
+🎸 guitar player · 🎮 video games · occasionally thinking too hard about distributed systems
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/nwolf2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ndwolf1991@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nullwulf&style=flat-square&color=0e75b6&label=profile+views"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="golang" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullwulf&show_icons=true&locale=en&langs_count=10" alt="nullwulf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullwulf&show_icons=true&locale=en" alt="nullwulf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nullwulf&" alt="nullwulf" /></p>
-
-<!-- [![](https://raw.githubusercontent.com/NULLWulf/NULLWulf/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NULLWulf/NULLWulf/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NULLWulf/NULLWulf/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NULLWulf/NULLWulf/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NULLWulf/NULLWulf/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
