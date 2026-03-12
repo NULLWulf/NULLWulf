@@ -50,22 +50,9 @@ Lately that's meant:
 
 ---
 
-## a few things i've shipped
-
-**Bonadio Group — Application Developer II** *(Dec 2022 – Present)*
-Cloud-native .NET services, a big-deal on-premise → Azure migration, and an internal AI documentation platform baked into the CI/CD process.
-
-**Novelis Aluminum — Software Engineering Co-op** *(Jun – Dec 2022)*
-OPC server config, Python data analysis on production datasets, and C# dashboards for tracking industrial equipment throughput.
-
-**SUNY Oswego Facility Services — Intern** *(Dec 2021 – Jun 2022)*
-Full-stack campus asset mapping app in Spring Boot + MapboxGL. Automated a bunch of Google Sheets chaos with the Workspace API.
-
----
-
 ## outside the terminal
 
-🎸 guitar player · 🎮 video games · occasionally thinking too hard about distributed systems
+🎢 roller coasters · 🎮 video games · occasionally thinking too hard about distributed systems
 
 ---
 
