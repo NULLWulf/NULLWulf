@@ -44,6 +44,5 @@ currently: building CI/CD pipelines & Azure-native apps
 
 <p align="center">
   <a href="https://linkedin.com/in/nwolf2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ndwolf1991@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=nullwulf&style=flat-square&color=0e75b6&label=profile+views"/>
 </p>
