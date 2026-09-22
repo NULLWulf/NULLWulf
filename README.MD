@@ -1,24 +1,10 @@
 # hey, i'm nathan 👋
 
 ```yaml
-role: Application Developer II → Cloud / DevOps Engineer
+role: DevOps Engineer I @ The Bonadio Group (Remote)
 location: Raleigh-Durham, NC
-currently: building CI/CD pipelines & Azure-native apps @ The Bonadio Group
+currently: building CI/CD pipelines & Azure-native apps
 ```
-
----
-
-## what i actually do
-
-I build things that live in the cloud and move fast. Most of my day is spent somewhere in the Azure ecosystem — wiring up services, modernizing pipelines, or figuring out why something that should cost $50/month is costing $500.
-
-Lately that's meant:
-
-- **CI/CD pipelines** with GitHub Actions — writing them, teaching others how to use them, and enforcing standards so the codebase doesn't become a haunted house
-- **.NET / C# services** deployed to App Services and Azure Functions, talking to SQL DBs, Key Vaults, Event Hubs, CosmosDB, and whatever else the architecture calls for
-- **Cloud migrations** — taking on-premise applications and finding them a new home in Azure without breaking everything in the process
-- **BonDoc** — an in-house AI documentation tool I built that auto-generates architecture docs, deployment guides, and Mermaid diagrams directly from CI/CD pipelines as a GitHub Action
-
 ---
 
 ## stack
